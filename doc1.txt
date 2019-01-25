@@ -1,1 +1,3 @@
 add text from the foo2 dir
+
+More tect from foo1 dir
