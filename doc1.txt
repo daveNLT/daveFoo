@@ -1,1 +1,3 @@
 add text from the foo2 dir
+
+Another line from foo2, trying to cause a conflict
