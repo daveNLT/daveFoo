@@ -1,3 +1,7 @@
 add text from the foo2 dir
 
+<<<<<<< HEAD
 Another line from foo2, trying to cause a conflict
+=======
+More tect from foo1 dir
+>>>>>>> 2dc41f2087ea94cf2c3a3d484980a2f1d4570a0d
